@@ -16,7 +16,7 @@
   * [Author Information](#author-information)
   * [License](#license)
 <!-- TOC -->
-Change as usual
+Change
 
 ## Requirements
 
