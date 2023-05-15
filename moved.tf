@@ -36,9 +36,4 @@ moved {
   to   = github_repository_project.main
 }
 
-moved {
-  from = github_repository_file.this
-  to   = github_repository_file.main
-}
-
 
